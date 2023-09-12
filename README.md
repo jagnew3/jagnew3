@@ -1,4 +1,4 @@
-- Hi, I’m @jagnew3
+- Hi, I’m Jake Agnew @jagnew3
 - I'm currently interested in python, SQL, and BI tools
 - I am learning Pandas for Python and gaining more experience with Tableau 
 
